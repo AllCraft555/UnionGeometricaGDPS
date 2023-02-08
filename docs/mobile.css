@@ -1,0 +1,11 @@
+@media (max-width: 600px) {
+  .head .navbar a {
+    display: block;
+    margin: 10px 0;
+  }
+
+  .head .logo {
+    display: block;
+    text-align: center;
+  }
+}
